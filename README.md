@@ -7,9 +7,11 @@ To create a blog follow the instructions below:
 
 ### Creating a new blog
 
-1. Create a .md file in the posts directory
+1. Checkout in a branch to work on your blog draft.
 
-2. Ensure you fill in the post Yaml-like properties. This sets things like, post title, header image, slug, author, extract. Without this information the post will error. The post information looks like this:
+2. Create a .md file in the posts directory
+
+3. Ensure you fill in the post Yaml-like properties. This sets things like post title, header image, slug, author, and extract. Without this information, the post will be omitted. The post information looks like this:
 
 ```markdown
 ---
@@ -29,6 +31,6 @@ ogImage:
 
 3. Images need to be saved in the public/blog directory of the BookWyrm dashboard repo and then linked with a relative link, e.g. `/blog/the-future-of-ai-data-management.webp`
 
-4. Images in post body should be used like: `![Robot AI obtaining context from data](/blog/ai-agent-obtaining-context.webp)`
+4. Images in the post body should be used like: `![Robot AI obtaining context from data](/blog/ai-agent-obtaining-context.webp)`
 
-5. I have saved some letter based avatars for G & M in the public/blog directory for author images. `/blog/letter-g.png` & `/blog/letter-m.png`
+5. I have saved some letter-based avatars for G & M in the public/blog directory for author images. `/blog/letter-g.png` & `/blog/letter-m.png`
