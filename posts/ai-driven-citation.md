@@ -1,7 +1,7 @@
 ---
 title: "AI-Driven Citation"
 slug: "ai-driven-citation"
-excerpt: "AI is rapidly automating cognitive labour, transforming workplaces. Effective data management is crucial, yet much tacit knowledge remains undocumented, causing inefficiencies and challenges during staff transitions."
+excerpt: "AI can accelerate historical research by using Bookwyrm's citation endpoint to safely extract and verify exact, traceable source quotes."
 coverImage: "/blog/ai-driven-citation.webp"
 category: "Agent Trust"
 date: "2025-10-06T10:23:07.322Z"
